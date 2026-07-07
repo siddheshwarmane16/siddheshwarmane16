@@ -90,8 +90,11 @@ Sri Balaji University, Pune
 
 ## 📂 Featured Projects
 
-### 📊 [Retail Sales Analytics Dashboard](#)
-Interactive Power BI dashboard for sales, profit & quantity analysis with regional and category-level insights.
+### 🤖 [AI-Powered Retail Sales Analytics Platform](https://github.com/siddheshwarmane16/Retail-Sales-Analytics)
+
+An end-to-end Python Data Science project that transforms retail transaction data into actionable business insights through data cleaning, exploratory data analysis, machine learning, sales forecasting, customer segmentation, and an intelligent recommendation system.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • XGBoost • LightGBM • Prophet • Plotly • Matplotlib • Seaborn • Jupyter Notebook
 
 ### 👨‍💼 [HR Analytics Dashboard](#)
 Employee attrition analysis with department-wise KPIs in an interactive HR dashboard.
