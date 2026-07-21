@@ -1,225 +1,115 @@
-# Hi 👋, I'm Siddheshwar Mane
+<h1 align="center">
+Hi 👋, I'm <span style="color:#00BFFF;">Siddheshwar Mane</span>
+</h1>
 
-### 🚀 Aspiring Data Scientist | Data Analyst | Power BI Developer
+<h3 align="center">
+🚀 Data Analyst • Data Scientist • Power BI Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+data+into+meaningful+insights;Power+BI+Dashboard+Developer;Python+%7C+SQL+%7C+Data+Analytics;Open+to+Internship+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Business+Insights;Power+BI+Dashboard+Developer;Python+%7C+SQL+%7C+Machine+Learning;Open+to+Data+Analytics+Internships;Building+Real-World+Data+Science+Projects" />
+</p>
+
+## 💼 Professional Experience
+
+### 💻 Frontend Engineering Intern
+**Cloud Counselage Pvt. Ltd.**
+📅 Apr 2026 – Jun 2026
+
+🚀 Developed an AI-powered Project Management Platform (Nexus AI)
+
+✔ Built modern React dashboards
+
+✔ Integrated Gemini/OpenRouter APIs
+
+✔ Implemented Kanban Workflow
+
+✔ Created AI Document Studio
+
+✔ Deployed using Vercel
+
+---
+
+### 📊 Data Analytics Intern
+**GlobCred**
+📅 2025
+
+✔ Cleaned and analyzed business datasets
+
+✔ Built Power BI dashboards
+
+✔ Performed SQL-based data analysis
+
+✔ Created Excel reports
+
+✔ Generated business insights
+
+✔ Improved reporting through data visualization
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,git,github,vscode,react"/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BCA%20Data%20Science-Sri%20Balaji%20University-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based%20in-Pune,%20India-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
+
 </p>
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 Third-Year **BCA (Data Science)** student at **Sri Balaji University, Pune** (2024–2027)
-* 📊 Passionate about **Data Analytics, Business Intelligence & Machine Learning**
-* 💻 Power BI Dashboard Developer
-* 🐍 Python Programmer
-* 🗄️ SQL & Excel Enthusiast
-* 🌐 Frontend Web Developer
-* 📚 Currently learning **Machine Learning, Advanced Power BI & Data Engineering**
-* 🚀 Open to **Data Analyst, Business Intelligence, and Data Science Internship Opportunities**
-
----
-
-# 💼 Experience
-
-### 💻 Frontend Engineering Intern — Cloud Counselage Pvt. Ltd.
-
-**April 2026 – June 2026**
-
-* Developed **Nexus AI**, an AI-powered Project Management Platform using React.js, Vite, Tailwind CSS, and AI APIs.
-* Built responsive dashboards, Kanban boards, document management modules, and AI-powered productivity features.
-* Integrated OpenRouter/Gemini APIs for intelligent project assistance.
-* Collaborated using Git & GitHub and deployed the application on Vercel.
-* Improved frontend development, API integration, and agile software development skills.
-
-### 📊 Data Analytics Intern — GlobCred
-
-**2025**
-
-* Completed a Data Analytics Internship focused on business intelligence and analytics.
-* Performed data cleaning, analysis, and visualization using **Python, SQL, Excel, and Power BI**.
-* Created interactive dashboards and reports to support data-driven decision-making.
-* Worked on real-world datasets to identify trends, KPIs, and actionable insights.
-* Strengthened analytical thinking, reporting, and business problem-solving skills.
-
----
-
-# 🎓 Education
-
-**Bachelor of Computer Applications (BCA) – Data Science**
-Sri Balaji University, Pune
-**2024 – 2027 (Expected)**
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
-
-* Python
-* SQL
-* JavaScript
-
-### Data Analytics
-
-* Power BI
-* Microsoft Excel
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-
-### Web Development
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Tailwind CSS
-* Vite
-
-### Database
-
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* Google Colab
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI-Powered Retail Sales Analytics Platform
-
-**GitHub:** https://github.com/siddheshwarmane16/Retail-Sales-Analytics
-
-An end-to-end Data Science project featuring:
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Machine Learning
-* Sales Forecasting
-* Customer Segmentation
-* Recommendation System
-* Business Intelligence Dashboard
-
-**Tech Stack**
-
-Python • Pandas • NumPy • Scikit-learn • XGBoost • LightGBM • Prophet • Plotly • Matplotlib • Seaborn
-
----
-
-### 📈 HR Analytics Dashboard
-
-Power BI dashboard analyzing employee attrition, KPIs, department performance, and workforce insights.
-
----
-
-### 🏦 Banking Analytics Dashboard
-
-Interactive Power BI dashboard for customer segmentation, loan analysis, and financial KPIs.
-
----
-
-### 🎓 Student Placement Prediction
-
-Machine Learning project using Python and Scikit-learn to predict student placement outcomes.
-
----
-
-# 🚧 Currently Working On
-
-* E-commerce Analytics Dashboard
-* Healthcare Analytics Dashboard
-* Supply Chain Analytics Dashboard
-* Customer Churn Prediction
-* Sales Forecasting using Machine Learning
-* Personal Portfolio Website
-
----
-
-# 🌱 Currently Learning
-
-* Machine Learning
-* Advanced Power BI
-* SQL Optimization
-* Data Engineering
-* Data Visualization
-* GitHub Best Practices
-
----
-
-# 🎯 Career Objective
-
-To become a **Data Scientist** or **Data Analyst** by solving real-world business problems using data analytics, machine learning, business intelligence, and modern technologies while continuously learning and creating impactful solutions.
-
----
-
-# 🏆 Certifications
-
-* 🥇 Data Analytics Internship – GlobCred (2025)
-* 💼 Frontend Engineering Internship – Cloud Counselage Pvt. Ltd.
-* 🌍 Sustainability for Business: ESG Fundamentals – IMD Business School (Coursera)
-* Python for Data Science
-* Power BI
-* Data Analytics
-* SQL Fundamentals
-* Git & GitHub
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=siddheshwarmane16&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshwarmane16&theme=tokyonight" height="170"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddheshwarmane16&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshwarmane16&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshwarmane16&layout=compact&theme=tokyonight"/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshwarmane16&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
----
+## 🏆 GitHub Trophies
 
-# 🌐 Portfolio
+<p align="center">
 
-🌍 Portfolio: **Coming Soon**
+<img src="https://github-profile-trophy.vercel.app/?username=siddheshwarmane16&theme=algolia&no-frame=true&margin-w=15"/>
 
-📄 Resume: **Coming Soon**
+</p>
 
----
+## 📈 Contribution Graph
 
-# 📫 Connect With Me
+<p align="center">
 
-📍 Pune, Maharashtra, India
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddheshwarmane16&theme=tokyo-night"/>
 
-💼 LinkedIn
-https://linkedin.com/in/siddheshwarmane16
+</p>
 
-🐙 GitHub
-https://github.com/siddheshwarmane16
+🏅 Frontend Engineering Internship — Cloud Counselage
 
-📧 Email
-[siddheshwarmane51710@gmail.com](mailto:siddheshwarmane51710@gmail.com)
+🏅 Data Analytics Internship — GlobCred
 
----
+🏅 ESG Fundamentals — IMD Business School
 
-# 💡 Quote
+🏅 Power BI
 
-> **"Turning data into meaningful insights, one project at a time."**
+🏅 SQL
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+🏅 Python
+🏅 Frontend Engineering Internship — Cloud Counselage
+
+🏅 Data Analytics Internship — GlobCred
+
+🏅 ESG Fundamentals — IMD Business School
+
+🏅 Power BI
+
+🏅 SQL
+
+🏅 Python
