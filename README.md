@@ -1,178 +1,240 @@
-# Hi 👋, I'm Siddheshwar Mane
+<div align="center">
 
-<h3 align="center">🚀 Aspiring Data Scientist | Data Analyst | Power BI Developer</h3>
+# 👋 Hi, I'm Siddheshwar Mane
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Insights;Data+Analytics+%7C+Power+BI+%7C+Python;Machine+Learning+Enthusiast;Open+to+Internships+and+Freelance;Building+Real-World+Projects" />
-</p>
+### 🚀 Aspiring Data Scientist • Data Analyst • Power BI Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddheshwarmane16&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/siddheshwarmane16?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/siddheshwarmane16?style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Power+BI+Developer;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+%F0%9F%9A%80" />
+
+<img src="https://komarev.com/ghpvc/?username=siddheshwarmane16&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 About Me
 
-- 🎓 Third-Year **BCA (Data Science)** student at **Sri Balaji University, Pune**
-- 📊 Passionate about Data Analytics, Business Intelligence & Machine Learning
-- 💻 Power BI Dashboard Developer
-- 🐍 Python Developer
-- 🗄 SQL • Excel • MySQL
-- 🌐 Frontend Developer (React.js)
-- 🚀 Looking for Data Analyst & Data Science Internship opportunities
+🎓 Third-Year **BCA (Data Science)** Student  
+🏫 Sri Balaji University, Pune
+
+📊 Passionate about
+
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Data Visualization
+- Dashboard Development
+
+💻 Currently working with
+
+- Python
+- SQL
+- Power BI
+- Excel
+- React.js
+
+🚀 Looking for
+
+**Data Analyst Internship**
+
+**Data Science Internship**
 
 ---
 
 # 💼 Professional Experience
 
-## 💻 Frontend Engineering Intern | Cloud Counselage Pvt. Ltd.
-**Apr 2026 – Jun 2026**
+## 💻 Frontend Engineering Intern
 
-- Developed **Nexus AI**, an AI-powered Project Management Platform.
-- Built responsive dashboards using React.js, Vite & Tailwind CSS.
-- Integrated AI APIs (Gemini/OpenRouter).
-- Used Git & GitHub for collaboration.
-- Deployed application on Vercel.
+### Cloud Counselage Pvt. Ltd.
 
-## 📊 Data Analytics Intern | GlobCred
-**2025**
+📅 Apr 2026 – Jun 2026
 
-- Cleaned and analyzed business datasets.
-- Built dashboards using Power BI & Excel.
-- Worked with SQL and Python for analysis.
-- Generated business insights and KPI reports.
+- Developed **Nexus AI**
+- Built dashboards using React.js
+- Integrated Gemini AI APIs
+- Used Git & GitHub
+- Deployed project on Vercel
 
 ---
 
-# 🎓 Education
+## 📊 Data Analytics Intern
 
-**Bachelor of Computer Applications (Data Science)**
+### GlobCred
 
-Sri Balaji University, Pune
+📅 2025
 
-2024 – 2027
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-Python • SQL • JavaScript
-
-### Analytics
-Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
-
-### Web
-React.js • HTML • CSS • Tailwind CSS • Vite
-
-### Database
-MySQL
-
-### Tools
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+- Data Cleaning
+- Dashboard Development
+- SQL Analysis
+- KPI Reporting
+- Business Insights
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI-Powered Retail Sales Analytics Platform
-https://github.com/siddheshwarmane16/Retail-Sales-Analytics
+| 🚀 Project | Technology |
+|------------|------------|
+| 🤖 AI Powered Retail Sales Analytics | Python • ML • Pandas |
+| 📊 HR Analytics Dashboard | Power BI |
+| 🏦 Banking Analytics Dashboard | Power BI |
+| 🎓 Student Placement Prediction | Machine Learning |
+| 💻 Nexus AI | React • Gemini AI |
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Machine Learning
-- Sales Forecasting
-- Customer Segmentation
-- Recommendation System
+### ⭐ Repository
 
-## 📊 HR Analytics Dashboard
+🔗 https://github.com/siddheshwarmane16/Retail-Sales-Analytics
 
-Power BI Dashboard for employee attrition analysis.
+---
 
-## 🏦 Banking Analytics Dashboard
+# 🛠 Tech Stack
 
-Loan analysis, customer insights and KPI dashboards.
+## 👨‍💻 Languages
 
-## 🎓 Student Placement Prediction
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,mysql"/>
+</p>
 
-Machine Learning project using Python.
+---
+
+## 📊 Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn
+
+---
+
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+---
+
+## ⚙ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+Jupyter Notebook • Google Colab
 
 ---
 
 # 📜 Certifications
 
-- Frontend Engineering Internship – Cloud Counselage Pvt. Ltd.
-- Data Analytics Internship – GlobCred (2025)
-- Sustainability for Business: ESG Fundamentals (IMD Business School)
-- Python for Data Science
-- Power BI
-- SQL Fundamentals
-- Git & GitHub
+✅ Frontend Engineering Internship – Cloud Counselage
+
+✅ Data Analytics Internship – GlobCred
+
+✅ ESG Fundamentals – IMD Business School
+
+✅ Python for Data Science
+
+✅ Power BI
+
+✅ SQL Fundamentals
+
+✅ Git & GitHub
 
 ---
 
 # 🌱 Currently Learning
 
-- Machine Learning
-- Advanced Power BI
-- SQL Optimization
-- Data Engineering
-- Statistics
+📈 Machine Learning
+
+📊 Advanced Power BI
+
+🗄 SQL Optimization
+
+⚙ Data Engineering
+
+📉 Statistics
 
 ---
 
 # 🎯 2026 Goals
 
-- Land a Data Analyst Internship
-- Build 10+ Data Science Projects
-- Earn Microsoft Power BI Certification
-- Contribute to Open Source
-- Grow GitHub Portfolio
+✅ Land Data Analyst Internship
+
+✅ Build 10+ Data Science Projects
+
+✅ Microsoft Power BI Certification
+
+✅ Open Source Contributions
+
+✅ Grow GitHub Portfolio
 
 ---
+
+<div align="center">
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=siddheshwarmane16&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshwarmane16&theme=tokyonight"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddheshwarmane16&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshwarmane16&layout=compact&theme=tokyonight"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshwarmane16&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+<br><br>
 
-# 🏆 GitHub Trophies
+<img src="https://streak-stats.demolab.com?user=siddheshwarmane16&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=siddheshwarmane16&theme=algolia&no-frame=true"/>
-</p>
+<br><br>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddheshwarmane16&theme=tokyo-night&hide_border=true"/>
 
-# 📈 Contribution Graph
+<br><br>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddheshwarmane16&theme=tokyo-night"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=siddheshwarmane16&theme=tokyonight&margin-w=10&no-frame=true&row=2&column=4"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/siddheshwarmane16/siddheshwarmane16/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/siddheshwarmane16
-- 🐙 GitHub: https://github.com/siddheshwarmane16
-- 📧 Email: siddheshwarmane51710@gmail.com
+<p align="center">
+
+<a href="https://linkedin.com/in/siddheshwarmane16">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/siddheshwarmane16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:siddheshwarmane51710@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
-# 💡 Quote
+<div align="center">
 
-> *Turning data into meaningful insights, one project at a time.*
+## 💡 Quote
 
-⭐ **Thanks for visiting my GitHub Profile!**
+### **"Turning data into meaningful insights, one project at a time."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
